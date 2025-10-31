@@ -52,7 +52,11 @@ const DarkTemplate = (
       "error.background": "#ff000033",
       "error.border": "#300",
 
-      "deleted.background": "#ff0",
+      // Also affects a least some icons
+      text: "#ccc",
+      "text.accent": accentHex,
+      "text.disabled": "#555",
+      "text.muted": "#999",
 
       // Editor colors
       hint: "#555", // Git blame color
@@ -134,7 +138,11 @@ const LightTemplate = (
       "error.background": "#ff000033",
       "error.border": "#300",
 
-      "deleted.background": "#ff0",
+      // Also affects a least some icons
+      text: "#333",
+      "text.accent": brighterAccentHex,
+      "text.disabled": "#666",
+      "text.muted": "#777",
 
       // Editor colors
       hint: "#ccc", // Git blame color
