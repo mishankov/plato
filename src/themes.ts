@@ -19,16 +19,16 @@ const themesData: ThemeData[] = [
     accentColor: { h: 340, s: 50, l: 60 },
   },
   {
-    name: "Blue",
-    appearance: "dark",
-    primaryColor: { h: 200, s: 100, l: 20 },
-    accentColor: { h: 20, s: 50, l: 60 },
-  },
-  {
     name: "Green",
     appearance: "light",
     primaryColor: { h: 160, s: 100, l: 40 },
     accentColor: { h: 340, s: 50, l: 60 },
+  },
+  {
+    name: "Blue",
+    appearance: "dark",
+    primaryColor: { h: 200, s: 100, l: 20 },
+    accentColor: { h: 20, s: 50, l: 60 },
   },
   {
     name: "Blue",

@@ -58,60 +58,6 @@
       }
     },
     {
-      "name": "Plato Blue Dark",
-      "appearance": "dark",
-      "style": {
-        "title_bar.background": "#004466",
-        "title_bar.inactive_background": "#004466",
-        "tab_bar.background": "#121212",
-        "tab.active_background": "#121212",
-        "tab.inactive_background": "#242424",
-        "panel.background": "#121212",
-        "element.active": "#004466",
-        "element.selected": "#004466",
-        "element.hover": "#00446666",
-        "status_bar.background": "#004466",
-        "error": "#f00",
-        "error.background": "#ff000033",
-        "error.border": "#300",
-        "text": "#ccc",
-        "text.accent": "#CC8866",
-        "text.disabled": "#555",
-        "text.muted": "#999",
-        "hint": "#555",
-        "editor.foreground": "#999",
-        "editor.document_highlight.read_background": "#333",
-        "editor.document_highlight.write_background": "#336",
-        "editor.document_highlight.bracket_background": "#222",
-        "editor.active_line.background": "#151515",
-        "link_text.hover": "#55f",
-        "syntax": {
-          "comment": {
-            "color": "#0088CC",
-            "background_color": "#00446666"
-          },
-          "string": {
-            "color": "#E6C4B3",
-            "background_color": "#CC886666"
-          },
-          "number": {
-            "color": "#CC8866"
-          },
-          "function": {
-            "color": "#ccc"
-          },
-          "variable": {
-            "color": "#ccc"
-          }
-        },
-        "players": [
-          {
-            "selection": "#222"
-          }
-        ]
-      }
-    },
-    {
       "name": "Plato Green Light",
       "appearance": "light",
       "style": {
@@ -161,6 +107,60 @@
         "players": [
           {
             "selection": "#dadada"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Plato Blue Dark",
+      "appearance": "dark",
+      "style": {
+        "title_bar.background": "#004466",
+        "title_bar.inactive_background": "#004466",
+        "tab_bar.background": "#121212",
+        "tab.active_background": "#121212",
+        "tab.inactive_background": "#242424",
+        "panel.background": "#121212",
+        "element.active": "#004466",
+        "element.selected": "#004466",
+        "element.hover": "#00446666",
+        "status_bar.background": "#004466",
+        "error": "#f00",
+        "error.background": "#ff000033",
+        "error.border": "#300",
+        "text": "#ccc",
+        "text.accent": "#CC8866",
+        "text.disabled": "#555",
+        "text.muted": "#999",
+        "hint": "#555",
+        "editor.foreground": "#999",
+        "editor.document_highlight.read_background": "#333",
+        "editor.document_highlight.write_background": "#336",
+        "editor.document_highlight.bracket_background": "#222",
+        "editor.active_line.background": "#151515",
+        "link_text.hover": "#55f",
+        "syntax": {
+          "comment": {
+            "color": "#0088CC",
+            "background_color": "#00446666"
+          },
+          "string": {
+            "color": "#E6C4B3",
+            "background_color": "#CC886666"
+          },
+          "number": {
+            "color": "#CC8866"
+          },
+          "function": {
+            "color": "#ccc"
+          },
+          "variable": {
+            "color": "#ccc"
+          }
+        },
+        "players": [
+          {
+            "selection": "#222"
           }
         ]
       }
