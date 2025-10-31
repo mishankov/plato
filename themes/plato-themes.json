@@ -12,6 +12,7 @@
         "tab_bar.background": "#121212",
         "tab.active_background": "#121212",
         "tab.inactive_background": "#242424",
+        "toolbar.background": "#121212",
         "panel.background": "#121212",
         "element.active": "#006644",
         "element.selected": "#006644",
@@ -66,6 +67,7 @@
         "tab_bar.background": "#f5f5f5",
         "tab.active_background": "#f5f5f5",
         "tab.inactive_background": "#e0e0e0",
+        "toolbar.background": "#f5f5f5",
         "panel.background": "#f5f5f5",
         "element.active": "#00CC88",
         "element.selected": "#00CC88",
@@ -120,6 +122,7 @@
         "tab_bar.background": "#121212",
         "tab.active_background": "#121212",
         "tab.inactive_background": "#242424",
+        "toolbar.background": "#121212",
         "panel.background": "#121212",
         "element.active": "#004466",
         "element.selected": "#004466",
@@ -174,6 +177,7 @@
         "tab_bar.background": "#f5f5f5",
         "tab.active_background": "#f5f5f5",
         "tab.inactive_background": "#e0e0e0",
+        "toolbar.background": "#f5f5f5",
         "panel.background": "#f5f5f5",
         "element.active": "#33BBFF",
         "element.selected": "#33BBFF",
@@ -204,6 +208,116 @@
           },
           "number": {
             "color": "#CC8866"
+          },
+          "function": {
+            "color": "#222"
+          },
+          "variable": {
+            "color": "#222"
+          }
+        },
+        "players": [
+          {
+            "selection": "#dadada"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Plato Orange Dark",
+      "appearance": "dark",
+      "style": {
+        "title_bar.background": "#CC4B00",
+        "title_bar.inactive_background": "#CC4B00",
+        "tab_bar.background": "#121212",
+        "tab.active_background": "#121212",
+        "tab.inactive_background": "#242424",
+        "toolbar.background": "#121212",
+        "panel.background": "#121212",
+        "element.active": "#CC4B00",
+        "element.selected": "#CC4B00",
+        "element.hover": "#CC4B0066",
+        "status_bar.background": "#CC4B00",
+        "error": "#f00",
+        "error.background": "#ff000033",
+        "error.border": "#300",
+        "text": "#ccc",
+        "text.accent": "#66A7CC",
+        "text.disabled": "#555",
+        "text.muted": "#999",
+        "hint": "#555",
+        "editor.foreground": "#999",
+        "editor.document_highlight.read_background": "#333",
+        "editor.document_highlight.write_background": "#336",
+        "editor.document_highlight.bracket_background": "#222",
+        "editor.active_line.background": "#151515",
+        "link_text.hover": "#55f",
+        "syntax": {
+          "comment": {
+            "color": "#FF7E33",
+            "background_color": "#CC4B0066"
+          },
+          "string": {
+            "color": "#B3D3E6",
+            "background_color": "#66A7CC66"
+          },
+          "number": {
+            "color": "#66A7CC"
+          },
+          "function": {
+            "color": "#ccc"
+          },
+          "variable": {
+            "color": "#ccc"
+          }
+        },
+        "players": [
+          {
+            "selection": "#222"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Plato Orange Light",
+      "appearance": "light",
+      "style": {
+        "title_bar.background": "#FF7E33",
+        "title_bar.inactive_background": "#FF7E33",
+        "tab_bar.background": "#f5f5f5",
+        "tab.active_background": "#f5f5f5",
+        "tab.inactive_background": "#e0e0e0",
+        "toolbar.background": "#f5f5f5",
+        "panel.background": "#f5f5f5",
+        "element.active": "#FF7E33",
+        "element.selected": "#FF7E33",
+        "element.hover": "#FF7E3366",
+        "status_bar.background": "#FF7E33",
+        "error": "#f00",
+        "error.background": "#ff000033",
+        "error.border": "#300",
+        "text": "#333",
+        "text.accent": "#409FBF",
+        "text.disabled": "#666",
+        "text.muted": "#777",
+        "hint": "#ccc",
+        "editor.foreground": "#777",
+        "editor.document_highlight.read_background": "#eee",
+        "editor.document_highlight.write_background": "#ddf",
+        "editor.document_highlight.bracket_background": "#eee",
+        "editor.active_line.background": "#f5f5f5",
+        "link_text.hover": "#55f",
+        "syntax": {
+          "comment": {
+            "color": "#D96826",
+            "background_color": "#FF7E3366"
+          },
+          "string": {
+            "color": "#409FBF",
+            "background_color": "#66B3CC66"
+          },
+          "number": {
+            "color": "#66B3CC"
           },
           "function": {
             "color": "#222"

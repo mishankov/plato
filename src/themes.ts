@@ -36,6 +36,18 @@ const themesData: ThemeData[] = [
     primaryColor: { h: 200, s: 100, l: 60 },
     accentColor: { h: 20, s: 50, l: 60 },
   },
+  {
+    name: "Orange",
+    appearance: "dark",
+    primaryColor: { h: 22, s: 100, l: 40 },
+    accentColor: { h: 202, s: 50, l: 60 },
+  },
+  {
+    name: "Orange",
+    appearance: "light",
+    primaryColor: { h: 22, s: 100, l: 60 },
+    accentColor: { h: 195, s: 50, l: 60 },
+  },
 ];
 
 const output = {

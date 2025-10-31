@@ -40,6 +40,7 @@ const DarkTemplate = (
       "tab_bar.background": darkBase100,
       "tab.active_background": darkBase100,
       "tab.inactive_background": darkBase300,
+      "toolbar.background": darkBase100,
 
       "panel.background": darkBase100,
       "element.active": primaryHex,
@@ -126,6 +127,7 @@ const LightTemplate = (
       "tab_bar.background": lightBase100,
       "tab.active_background": lightBase100,
       "tab.inactive_background": lightBase300,
+      "toolbar.background": lightBase100,
 
       "panel.background": lightBase100,
       "element.active": primaryHex,
