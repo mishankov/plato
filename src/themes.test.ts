@@ -1,6 +1,5 @@
 import { expect, test } from "bun:test";
 import { readFileSync } from "fs";
-import { deepEquals } from "bun";
 import { validate } from "jsonschema";
 import themes from "./themes.js";
 
@@ -9,7 +8,7 @@ test("themes in file are the same as generated", () => {
     readFileSync("./themes/plato-themes.json").toString(),
   );
 
-  expect(deepEquals(themes, fromFile)).toBeTrue();
+  expect(themes).toEqual(fromFile);
 });
 
 test("themes satisfies its JSON schema", async () => {
