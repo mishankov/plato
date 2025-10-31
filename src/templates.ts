@@ -56,11 +56,11 @@ const DarkTemplate = (
 
       // Editor colors
       hint: "#ccc", // Git blame color
-      "editor.foreground": "#777",
-      "editor.document_highlight.read_background": "#eee", // highlights variable read
-      "editor.document_highlight.write_background": "#ddf", // highlights variable write
-      "editor.document_highlight.bracket_background": "#eee",
-      "editor.active_line.background": "#f5f5f5",
+      "editor.foreground": "#999",
+      "editor.document_highlight.read_background": "#333", // highlights variable read
+      "editor.document_highlight.write_background": "#336", // highlights variable write
+      "editor.document_highlight.bracket_background": "#222",
+      "editor.active_line.background": "#151515",
       "link_text.hover": "#55f",
       syntax: {
         comment: {

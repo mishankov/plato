@@ -22,11 +22,11 @@
         "error.border": "#300",
         "deleted.background": "#ff0",
         "hint": "#ccc",
-        "editor.foreground": "#777",
-        "editor.document_highlight.read_background": "#eee",
-        "editor.document_highlight.write_background": "#ddf",
-        "editor.document_highlight.bracket_background": "#eee",
-        "editor.active_line.background": "#f5f5f5",
+        "editor.foreground": "#999",
+        "editor.document_highlight.read_background": "#333",
+        "editor.document_highlight.write_background": "#336",
+        "editor.document_highlight.bracket_background": "#222",
+        "editor.active_line.background": "#151515",
         "link_text.hover": "#55f",
         "syntax": {
           "comment": {
@@ -73,11 +73,11 @@
         "error.border": "#300",
         "deleted.background": "#ff0",
         "hint": "#ccc",
-        "editor.foreground": "#777",
-        "editor.document_highlight.read_background": "#eee",
-        "editor.document_highlight.write_background": "#ddf",
-        "editor.document_highlight.bracket_background": "#eee",
-        "editor.active_line.background": "#f5f5f5",
+        "editor.foreground": "#999",
+        "editor.document_highlight.read_background": "#333",
+        "editor.document_highlight.write_background": "#336",
+        "editor.document_highlight.bracket_background": "#222",
+        "editor.active_line.background": "#151515",
         "link_text.hover": "#55f",
         "syntax": {
           "comment": {
