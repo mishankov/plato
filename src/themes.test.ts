@@ -11,8 +11,8 @@ test("themes in file are the same as generated", () => {
   expect(themes).toEqual(fromFile);
 });
 
-test("themes satisfies its JSON schema", async () => {
-  const resp = await fetch(themes.$schema);
+test("themes satisfies JSON schema", async () => {
+  const resp = await fetch("https://zed.dev/schema/themes/v0.2.0.json");
 
   expect(resp.ok).toBeTrue();
 
