@@ -55,7 +55,7 @@ const DarkTemplate = (
       "deleted.background": "#ff0",
 
       // Editor colors
-      hint: "#ccc", // Git blame color
+      hint: "#555", // Git blame color
       "editor.foreground": "#999",
       "editor.document_highlight.read_background": "#333", // highlights variable read
       "editor.document_highlight.write_background": "#336", // highlights variable write
